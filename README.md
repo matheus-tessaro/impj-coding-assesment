@@ -140,11 +140,11 @@ The project includes unit tests for all services and the controller. To run the 
 
 The API is documented using the **OpenAPI Specification**. You can access the OpenAPI specification file at:
 
-🔗 [**OpenAPI Specification**](https://chat.deepseek.com/a/chat/s/{localhost-url}/openapi/v1.json)
+🔗 [**OpenAPI Specification**](http://localhost:5001/openapi/v1.json)
 
 This file can be used with tools like [Swagger UI](https://swagger.io/tools/swagger-ui/) or [Scalar](https://github.com/scalar/scalar) to explore and interact with the API.
 
 **License** 📜
 --------------
 
-This project is licensed under the MIT License. See the [LICENSE](https://chat.deepseek.com/a/chat/s/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/mit) file for details.
